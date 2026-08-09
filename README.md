@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/justharshh67/leet-code/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/justharshh67/leet-code/tree/master/1140-stone-game-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/justharshh67/leet-code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/justharshh67/leet-code/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/justharshh67/leet-code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/justharshh67/leet-code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
