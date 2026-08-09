@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/justharshh67/leet-code/tree/master/0001-two-sum) |
 | [1140-stone-game-ii](https://github.com/justharshh67/leet-code/tree/master/1140-stone-game-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/justharshh67/leet-code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/justharshh67/leet-code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/justharshh67/leet-code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
