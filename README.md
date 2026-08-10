@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/justharshh67/leet-code/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/justharshh67/leet-code/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/justharshh67/leet-code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/justharshh67/leet-code/tree/master/1510-stone-game-iv) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/justharshh67/leet-code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
