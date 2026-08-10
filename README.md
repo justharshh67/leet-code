@@ -15,15 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/justharshh67/leet-code/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/justharshh67/leet-code/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/justharshh67/leet-code/tree/master/1510-stone-game-iv) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/justharshh67/leet-code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/justharshh67/leet-code/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/justharshh67/leet-code/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/justharshh67/leet-code/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/justharshh67/leet-code/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -32,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/justharshh67/leet-code/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/justharshh67/leet-code/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/justharshh67/leet-code/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/justharshh67/leet-code/tree/master/1510-stone-game-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/justharshh67/leet-code/tree/master/0175-combine-two-tables) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/justharshh67/leet-code/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/justharshh67/leet-code/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
