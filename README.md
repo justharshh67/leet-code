@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/justharshh67/leet-code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/justharshh67/leet-code/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/justharshh67/leet-code/tree/master/0013-roman-to-integer) |
 | [1140-stone-game-ii](https://github.com/justharshh67/leet-code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/justharshh67/leet-code/tree/master/1510-stone-game-iv) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/justharshh67/leet-code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/justharshh67/leet-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justharshh67/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/justharshh67/leet-code/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justharshh67/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/justharshh67/leet-code/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
